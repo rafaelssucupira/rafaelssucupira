@@ -26,12 +26,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-ori
 align="left"
 width=30
 style="padding-right:10px"        
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-
-<img 
-align="left"
-width=30
-style="padding-right:10px"        
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
           
 <img 
@@ -46,6 +40,12 @@ width=30
 style="padding-right:10px"        
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
  
+<img 
+align="left"
+width=30
+style="padding-right:10px"        
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+
 <img
 align="left"
 width=30
