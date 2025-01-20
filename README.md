@@ -1,5 +1,5 @@
 # 💻 Rafael Sucupira
-**`Desenvolvedor Full Stack`** <br>
+**`Desenvolvedor Back-End`** <br>
 
 Desde jovem, a informática sempre me fascinou e, aos 20 anos, com o incentivo do meu pai — um profissional experiente em Delphi e bancos relacionais — mergulhei no mundo da programação. Desde então, minha jornada tem sido marcada por aprendizado autodidata e empreendedorismo.
 
